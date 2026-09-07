@@ -1,0 +1,3 @@
+python scripts/01_preprocess.py
+python scripts/02_analysis.py
+python scripts/03_visualize.py
